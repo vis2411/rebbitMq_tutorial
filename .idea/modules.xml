@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/rebbitMq totorial.iml" filepath="$PROJECT_DIR$/.idea/rebbitMq totorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq-demo/springboot-rabbitmq-demo.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq-demo/springboot-rabbitmq-demo.iml" />
+    </modules>
+  </component>
+</project>
